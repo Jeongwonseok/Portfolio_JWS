@@ -1,5 +1,4 @@
 # 개발자 정원석 포트폴리오
-======================
 
 ## 1. [**181227_BzApp_Android**](https://github.com/Jeongwonseok/181227_BzApp_Android.git)
 주제 : 상권 정보 안내 & 추천 App (Android)
