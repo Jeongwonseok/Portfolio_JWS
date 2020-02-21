@@ -5,26 +5,26 @@
 주제 : 상권 정보 안내 & 추천 App (Android)
 
 ****
-## 2. [**190709_SmartDiffuserApp_Android**](https://github.com/Jeongwonseok/181227_BzApp_Android.git)
+## 2. [**190709_SmartDiffuserApp_Android**](https://github.com/Jeongwonseok/190709_SmartDiffuserApp_Android.git)
 주제 :  App (Android)
 
 ****
-## 3. [**190709_SurvivalGame_Unity3D**](https://github.com/Jeongwonseok/181227_BzApp_Android.git)
+## 3. [**190709_SurvivalGame_Unity3D**](https://github.com/Jeongwonseok/190709_SurvivalGame_Unity3D.git)
 주제 :  (Unity3D)
 
 ****
-## 4. [**190727_OneRoomGame_Unity3D**](https://github.com/Jeongwonseok/181227_BzApp_Android.git)
+## 4. [**190727_OneRoomGame_Unity3D**](https://github.com/Jeongwonseok/190727_OneRoomGame_Unity3D.git)
 주제 :  (Unity3D)
 
 ****
-## 5. [**191023_ABHDGame_UnityVR**](https://github.com/Jeongwonseok/181227_BzApp_Android.git)
+## 5. [**191023_ABHDGame_UnityVR**](https://github.com/Jeongwonseok/191023_ABHDGame_UnityVR.git)
 주제 :  (UnityVR)
 
 ****
-## 6. [**191127_EdumGame_UnityVR**](https://github.com/Jeongwonseok/181227_BzApp_Android.git)
+## 6. [**191127_Edum_UnityVR**](https://github.com/Jeongwonseok/191127_Edum_UnityVR.git)
 주제 :  (UnityVR)
 
 ****
-## 7. [**191212_AudioVisual_Unity3D**](https://github.com/Jeongwonseok/181227_BzApp_Android.git)
+## 7. [**191212_AudioVisual_Unity3D**](https://github.com/Jeongwonseok/191212_AudioVisual_Unity3D.git)
 주제 :  (Unity3D)
 
