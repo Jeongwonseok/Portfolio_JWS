@@ -5,25 +5,25 @@
 
 ****
 ## 2. [**190709_SmartDiffuserApp_Android**](https://github.com/Jeongwonseok/190709_SmartDiffuserApp_Android.git)
-주제 :  App (Android)
+주제 : 아두이노 센서와 통신하는 스마트 디퓨저 제어 App (Android)
 
 ****
 ## 3. [**190709_SurvivalGame_Unity3D**](https://github.com/Jeongwonseok/190709_SurvivalGame_Unity3D.git)
-주제 :  (Unity3D)
+주제 : 3D FPS 서바이벌 생존 게임 제작 (Unity3D)
 
 ****
 ## 4. [**190727_OneRoomGame_Unity3D**](https://github.com/Jeongwonseok/190727_OneRoomGame_Unity3D.git)
-주제 :  (Unity3D)
+주제 : 단간론파 추리 비쥬얼 노벨 게임 제작 (Unity3D) - 현재 개발 진행 중
 
 ****
 ## 5. [**191023_ABHDGame_UnityVR**](https://github.com/Jeongwonseok/191023_ABHDGame_UnityVR.git)
-주제 :  (UnityVR)
+주제 : 사운드 플레이 기반 어드벤처 게임 제작 (UnityVR)
 
 ****
 ## 6. [**191127_Edum_UnityVR**](https://github.com/Jeongwonseok/191127_Edum_UnityVR.git)
-주제 :  (UnityVR)
+주제 : 1인칭 시점의 나라별 음악 교육 교구 제작 (UnityVR)
 
 ****
 ## 7. [**191212_AudioVisual_Unity3D**](https://github.com/Jeongwonseok/191212_AudioVisual_Unity3D.git)
-주제 :  (Unity3D)
+주제 : 오디오 비주얼 작품 제작 (Unity3D) - 현재 개발 진행 중
 
