@@ -29,8 +29,12 @@
 
 ****
 ## 8. [**200229_Unity-Skill_Unity3D**](https://github.com/Jeongwonseok/200229_Unity-Skill_Unity3D.git)
-주제 : 유용한 유니티 스킬 배우기 (Unity3D) - 현재 개발 진행 중
+주제 : 유용한 유니티 스킬 배우기 (Unity3D)
 
 ****
 ## 9. [**200304_AR-Tutorial_UnityAR**](https://github.com/Jeongwonseok/200304_AR-Tutorial_UnityAR.git)
-주제 : AR 관련 튜토리얼 학습 (UnityAR) - 현재 개발 진행 중
+주제 : AR 관련 튜토리얼 학습 (UnityAR)
+
+****
+## 10. [**200312_Unity-Network_Unity3D**](https://github.com/Jeongwonseok/200312_Unity-Network_Unity3D.git)
+주제 : 네트워크 멀티플레이어 게임 개발하기 (Unity3D) - 현재 개발 진행 중
