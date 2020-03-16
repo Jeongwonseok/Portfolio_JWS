@@ -37,4 +37,4 @@
 
 ****
 ## 10. [**200312_Unity-Network_Unity3D**](https://github.com/Jeongwonseok/200312_Unity-Network_Unity3D.git)
-주제 : 네트워크 멀티플레이어 게임 개발하기 (Unity3D) - 현재 개발 진행 중
+주제 : 네트워크 멀티플레이어 게임 개발하기 (Unity3D)
