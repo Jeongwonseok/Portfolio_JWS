@@ -37,4 +37,8 @@
 
 ****
 ## 10. [**200312_Unity-Network_Unity3D**](https://github.com/Jeongwonseok/200312_Unity-Network_Unity3D.git)
-주제 : 네트워크 멀티플레이어 게임 개발하기 (Unity3D)
+주제 : Unet 멀티플레이어 게임 개발하기 (Unity3D)
+
+****
+## 11. [**200318_MultiplayGame_Unity2D**](https://github.com/Jeongwonseok/200318_MultiplayGame_Unity2D.git)
+주제 : Unity 멀티플레이어 네트워크 게임 개발하기 (Unity3D, Photon, Firebase)
